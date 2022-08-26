@@ -99,3 +99,7 @@ Results:
 share your ALB DNS name:
 eng122-ayanle-amiworking-asg-1-1500020551.eu-west-1.elb.amazonaws.com
 ![image](https://user-images.githubusercontent.com/104793540/186887520-e3bbae73-8c6d-4a65-ac62-ff3f7ddcb26c.png)
+
+### Database ASG (highly available and scalable)
+
+- a
