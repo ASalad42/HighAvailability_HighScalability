@@ -13,6 +13,7 @@ Diagram of my architecture explaining steps and functionality of ALB -ASG - TG -
 - note: Vpc > subnet for private and public + gateways 
 https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
 
+### App ASG
 
 ![image](https://user-images.githubusercontent.com/104793540/186645511-810feced-32b6-471c-a9ba-ab684bb591ec.png)
 ![image](https://user-images.githubusercontent.com/104793540/186645544-ab9dea3e-0ec8-438e-b06e-3c3676666ca6.png)
@@ -102,4 +103,5 @@ eng122-ayanle-amiworking-asg-1-1500020551.eu-west-1.elb.amazonaws.com
 
 ### Database ASG (highly available and scalable)
 
-- a
+- create db first
+- include if statement in script (i.e if db is up then run app)
