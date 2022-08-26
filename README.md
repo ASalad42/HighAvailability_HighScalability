@@ -52,7 +52,6 @@ in nodeapp and database > while pages were working i did the following:
 - `cd /etc/systemd/system`
 - `sudo nano npm.service`
 - add the following:
-- 
 ```
 [Unit]
 Description=running npm app
