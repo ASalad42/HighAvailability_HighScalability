@@ -4,7 +4,7 @@
 ## Autoscaling and load balancer
 Diagram of my architecture explaining steps and functionality of ALB -ASG - TG - Multi- AZs deployment
 
-![image](https://user-images.githubusercontent.com/104793540/186887137-16b8ad60-42c0-4656-9a69-90c3e48ef6ae.png)
+![image](https://user-images.githubusercontent.com/104793540/186934308-b8339776-3404-4ba1-bc45-aca5442467b4.png)
 
  
 - Application Load Balancer distributes the traffic between EC2 instances so that no one instance gets overwhelmed 
